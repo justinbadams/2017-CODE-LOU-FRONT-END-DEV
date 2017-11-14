@@ -1,0 +1,96 @@
+/* ================================= 
+  Main Page Styling
+==================================== */
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+	line-height: 1.6;
+	color: #000;
+	margin: 0;
+    font-size: 1.25em;
+    background-color:cyan;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+    
+}
+
+}
+p {
+	font-size: 1em;
+	margin-bottom: 1.6em;
+}
+h2 {
+	color: darkblue;
+}
+
+a {
+	color: crimson;
+    text-decoration: none;
+
+}
+
+
+img {
+	max-width: 100%;
+}
+
+
+
+
+.services {
+    font-style: italic;
+    text-align: center;
+    color:darkmagenta;
+    
+}
+/* background image for header/jumbotron */
+.jumbotron {
+        background-image: url(../images/logo2.png);
+        background-size: 115%;
+    
+}
+    /*  adds styling to business name  */
+.logo {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-shadow: 5px 5px 5px darkblue;
+    font-size: 4em;
+/*    font-style: italic;*/
+}
+    
+    /* changes the format of the phone number in jumbo*/
+.phone {
+    font-size: 2.5em;
+    font-style: bold;
+    color: darkblue;
+    text-shadow: 3px 3px 3px white;
+    }
+
+.email {
+    text-shadow: 3px 3px 3px darkblue;
+}
+    
+/*  end jumbotron   */
+
+
+.mb-4 {
+    color: crimson;
+    text-decoration: underline;
+}
+
+.hours {
+    text-align: center;
+    color: darkmagenta;
+}
+
+.about {
+    text-align: center;
+}
+
+.request {
+    color: forestgreen;
+    text-decoration: underline;
+}
