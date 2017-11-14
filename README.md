@@ -1,2 +1,3 @@
 # 2017-CODE-LOU-FRONT-END-DEV
 Code Louisville Front End Project
+This Website was designed to display the business for Just In Time Handyman. I originally started with a different focus and had gotten halfway done with hand coding when i finally discovered Bootstrap and thus I changed my focus and did this design. I have used css to style specifc elements on the page and i used javascript to create a button to hide a span then when submitted/clicked the botton revelas the thanks note underneath. I used bootstrap to create the gallery slide show and adjusted to match my images. Hopefully I have met all of the conditions of the project. Thanks
